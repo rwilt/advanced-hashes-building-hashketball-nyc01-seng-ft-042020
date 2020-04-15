@@ -108,7 +108,7 @@ bballhash[:away][:players].push(
   :assists => 12,
   :steals => 4,
   :blocks => 5,
-  :slam_dunks => 5 
+  :slam_dunks => 5
 },
 {
   :player_name => "Ben Gordon",
@@ -119,7 +119,7 @@ bballhash[:away][:players].push(
   :assists => 2,
   :steals => 1,
   :blocks => 1,
-  :slam_dunks => 0 
+  :slam_dunks => 0
 },
 {
   :player_name => "Kemba Walker",
@@ -130,7 +130,7 @@ bballhash[:away][:players].push(
   :assists => 12,
   :steals => 7,
   :blocks => 5,
-  :slam_dunks => 12 
+  :slam_dunks => 12
 }
 )
 
