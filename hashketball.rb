@@ -47,8 +47,8 @@ bballhash[:home][:players].push({
   :shoe => 17,
   :points => 17,
   :rebounds => 19,
-  :assists => 19,
-  :steals => 10,
+  :assists => 10,
+  :steals => 3,
   :blocks =>1 ,
   :slam_dunks => 15
 },{
